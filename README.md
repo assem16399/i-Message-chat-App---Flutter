@@ -13,7 +13,7 @@ firebase_messaging: to handle FCM push notifications
 
 **Screenshots from the App
 
-<Screenshot_1635118457 src="https://user-images.githubusercontent.com/56374551/138617325-5164d230-65ab-4531-bb08-30f15f6a08b7.png" width="100">
+<Screenshot_1635118457 src="https://user-images.githubusercontent.com/56374551/138617325-5164d230-65ab-4531-bb08-30f15f6a08b7.png" width="100" height="100">
 <Screenshot_1635118462 src="https://user-images.githubusercontent.com/56374551/138617340-1bd4e433-509e-4f65-a525-4dfafe259a26.png" width="100">
 <Screenshot_1635118447 src="https://user-images.githubusercontent.com/56374551/138617346-bb8dea1e-d98d-4bc2-b559-7d7486230094.png" width="100">
 <Screenshot_1635118453 src="https://user-images.githubusercontent.com/56374551/138617350-7b5851a3-5272-4e96-b7c0-0dbc403d8410.png" width="100">
