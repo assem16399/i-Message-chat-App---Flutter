@@ -9,6 +9,7 @@ firebase_auth: to handle the user authentication
 firebase_storage: to store the data of the user such as: users images
 image_picker: to be able to use the device native camera to take pictures of the user
 firebase_messaging: to handle FCM push notifications
+Null Saftey Enabled
 .**
 
 **Screenshots from the App
